@@ -39,6 +39,11 @@ added to the button in the index html file as well.*/
 }
 
 .introParagraphs{
-  
+
   border-bottom: 1px solid rgba(144, 144, 144, 0.25);
+}
+
+.table-wrapper {
+  margin-left: 50px;
+  margin-right: 50px;
 }
