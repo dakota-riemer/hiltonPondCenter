@@ -23,6 +23,7 @@ added to the button in the index html file as well.*/
 #banner .button.redbtn {
   background-color: rgba(188, 46, 26, 1);
   box-shadow: none;
+  color: #FFFFFF;
 }
 
 #banner .button.redbtn:hover {
@@ -44,6 +45,19 @@ added to the button in the index html file as well.*/
 }
 
 .table-wrapper {
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#topBanner .innerTopBanner{
+  background-color: #993300;
+  color: #FFFFFF;
+  text-align: center;
+  cursor: default;
+  padding: 10em 4em 9em 4em;
+}
+.goalImage{
+  margin-left: 280px;
+  margin-right: 150px;
+  padding-top: 100px;
 }
