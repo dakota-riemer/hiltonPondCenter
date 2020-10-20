@@ -45,8 +45,8 @@ added to the button in the index html file as well.*/
 }
 
 .table-wrapper {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 #topBanner .innerTopBanner{
@@ -60,4 +60,16 @@ added to the button in the index html file as well.*/
   margin-left: 280px;
   margin-right: 150px;
   padding-top: 100px;
+}
+.imageAdjust{
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 150px;
+}
+.headerAdjust{
+  margin-left:150px;
+  font-weight:bold;
+  font-size: 20px;
+  margin-top:100px;
+  margin-bottom:25px;
 }
